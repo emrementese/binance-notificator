@@ -1,2 +1,2 @@
-# binance-telegram
- Binance API - Telegram Notificator
+# binance-notificator
+ Binance API - Notificator
